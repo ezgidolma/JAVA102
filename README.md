@@ -1,6 +1,6 @@
 # JAVA102
 
-JAVA konularını pekiştirilip örneklerle açıklanmaya çalışılmıştır.
+JAVA konuları pekiştirilip örneklerle açıklanmaya çalışılmıştır.
 
 Java metin tabanlı OOP uygulanmış bir oyun tasarımı yapılmıştır.
 
